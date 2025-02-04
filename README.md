@@ -27,7 +27,7 @@ Whilst working at The Information Lab, I have:
 This dashboard allows the user to select a football player and evaluate how they compare amongst others at progressing the ball into dangerous areas of the pitch and in which zones they excell at doing so. Data is from [statsbomb](https://github.com/statsbomb/open-data) and cleaned and transformed using Alteryx.
 
 <a href="https://public.tableau.com/app/profile/tom.gould5794/viz/PlayerReportBallProgression/PlayerReport">
-    <img src="https://public.tableau.com/thumb/views/PlayerReportBallProgression/PlayerReport" width ="80%">
+    <img src="https://public.tableau.com/thumb/views/PlayerReportBallProgression/PlayerReport" width ="100%">
   </a>
 
 <!--
