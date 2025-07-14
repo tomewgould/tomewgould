@@ -22,6 +22,8 @@ Whilst working at The Information Lab, I have:
 
 - SQL (Snowflake, PostgreSQL, Oracle)
 
+- Python
+
 # Tableau Public
 
 This dashboard allows finance and risk teams to monitor their loan portfolios and find data driven-insights in three sections. I used Python to generate the data and the script can be found [here](https://github.com/tomewgould/credit-risk).
