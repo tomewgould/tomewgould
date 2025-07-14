@@ -24,7 +24,7 @@ Whilst working at The Information Lab, I have:
 
 # Tableau Public
 
-This dashboard allows finance and risk teams to monitor their loan portfolios and find data driven-insights in three sections.
+This dashboard allows finance and risk teams to monitor their loan portfolios and find data driven-insights in three sections. I used Python to generate the data and the script can be found [here](https://github.com/tomewgould/credit-risk).
 
 <a href="https://public.tableau.com/app/profile/tom.gould5794/viz/CreditRiskDashboard_17519918318590/Dashboard">
     <img src="https://public.tableau.com/thumb/views/CreditRiskDashboard_17519918318590/Dashboard" width ="100%">
