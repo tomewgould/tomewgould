@@ -4,6 +4,8 @@ I graduated from the University of Bristol with a distinction in MSc Economics a
 
 Whilst working at The Information Lab, I have:
 
+- Designed and implemented technical solutions to businesss problems for multiple leading firms across a range of sectors including defence, finance, and higher education
+
 - Spoken at the 2024 Higher Education Tableau User Group where I presented an automated solution to batch exporting and sharing Tableau views with appropriate filters applied by leveraging the Tableau REST API with Alteryx
 
 - Published 18 blog posts covering various topics that range from transforming statsbomb football analytics data in Alteryx to the considerations required to improve the accesibility and inclusivity of dashboards in Tableau
@@ -23,6 +25,8 @@ Whilst working at The Information Lab, I have:
 - SQL (Snowflake, PostgreSQL, Oracle)
 
 - Python
+
+- dbt
 
 # Tableau Public
 
