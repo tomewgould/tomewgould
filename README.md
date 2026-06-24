@@ -1,32 +1,42 @@
 # About me
 
-I graduated from the University of Bristol with a distinction in MSc Economics and Data Science, following on from achieving a First in BA Economics from the University of Leicester. It was during my studies where I was introduced to using tools such as Python and R to extract answers to complex questions from large datasets, and then convey those findings in clear and concise ways. This then led me to join The Information Lab as a Data Analytics Consultant.
+I’m a Data Analyst / BI Specialist with 3+ years’ experience delivering analytics products across consulting and in-house environments.
 
-Whilst working at The Information Lab, I have:
+My work focuses on building self-serve analytics tools that help stakeholders make better decisions, from governed data sources and reporting layers through to Tableau dashboards, data literacy workshops and AI-enabled analytics tools.
 
-- Designed and implemented technical solutions to businesss problems for multiple leading firms across a range of sectors including defence, finance, and higher education
+Currently, I work as a Business Intelligence Specialist at Virgin Media O2, where I deliver end-to-end analytics products across customer behaviour, campaign response and contact driver analysis. This includes building scalable reporting layers in dbt, developing Tableau dashboards, defining business logic with stakeholders and helping make insight more accessible across the organisation.
 
-- Spoken at the 2024 Higher Education Tableau User Group where I presented an automated solution to batch exporting and sharing Tableau views with appropriate filters applied by leveraging the Tableau REST API with Alteryx
+Previously, I worked as a Data Analytics Consultant at The Information Lab, delivering Tableau, SQL and Alteryx solutions for clients across defence, logistics, real estate and higher education.
 
-- Published 18 blog posts covering various topics that range from transforming statsbomb football analytics data in Alteryx to the considerations required to improve the accesibility and inclusivity of dashboards in Tableau
+Some highlights include:
 
-- Passed several certifications including Tableau Certified Data Analyst and Alteryx Designer Advanced
+* Owning the end-to-end lifecycle of self-serve analytics products, from requirements gathering and data modelling through to dashboard delivery and stakeholder adoption
+* Building scalable reporting layers in dbt and SQL to standardise metrics and improve trust in self-serve reporting
+* Improving and stabilising complex Alteryx and Tableau reporting workflows used by senior leadership teams
+* Speaking at the 2024 Higher Education Tableau User Group on using Alteryx Apps with the Tableau REST API to automate filtered Tableau exports
+* Publishing 18 analytics blog posts covering topics such as football analytics, Alteryx workflows, Tableau dashboard design, accessibility and inclusive data visualisation
+* Earning certifications including Tableau Certified Data Analyst, Alteryx Designer Advanced and dbt Fundamentals
+
+I graduated from the University of Bristol with a Distinction in MSc Economics and Data Science, after achieving a First Class Honours degree in BA Economics from the University of Leicester.
 
 # Tech stack
 
-- Tableau Desktop
+**BI & visualisation**
+Tableau Desktop, Tableau Cloud / Server, Power BI
 
-- Tableau Server
+**Data modelling & transformation**
+SQL, dbt, Alteryx Designer, Alteryx Server
 
-- Alteryx Designer
+**Databases & warehouses**
+BigQuery, Snowflake, MS SQL Server, PostgreSQL, Oracle
 
-- Alteryx Server
+**Analytics & AI**
+Conversational BI, LLM-enabled analytics, Python
 
-- SQL (Snowflake, PostgreSQL, Oracle)
+# Portfolio
 
-- Python
+This GitHub contains a selection of self-led analytics projects, experiments and technical write-ups. I use it to explore topics across BI, data modelling, automation, football analytics and data visualisation.
 
-- dbt
 
 # Tableau Public
 
